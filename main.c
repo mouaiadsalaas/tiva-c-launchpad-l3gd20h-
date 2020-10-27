@@ -230,6 +230,7 @@ void L3GD20_Init(void){
     delayMS(100);
 }
 //mouaiad
+//ali
 int main(void)
 {
     SysCtlClockSet(SYSCTL_SYSDIV_4 | SYSCTL_USE_PLL | SYSCTL_XTAL_16MHZ| SYSCTL_OSC_MAIN);
